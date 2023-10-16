@@ -1,2 +1,2 @@
-from funcs import summary
-print(summary)
+from funcs import result
+print(result)
