@@ -1,6 +1,12 @@
-def summary(x: 19, y: 81):
+def summary(x, y):
     return x + y
 
 
-def subtraction(x: 100, y: 42):
-    return x - y
+result = summary(19, 81)
+
+
+def subtraction(x, y):
+    return x + y
+
+
+result2 = subtraction(100, 42)
